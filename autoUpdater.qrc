@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="updaterIco">resources/logo.ico</file>
+        <file alias="updateLogo">resources/logo.png</file>
+    </qresource>
+</RCC>
