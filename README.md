@@ -1,5 +1,5 @@
-# autoUpgrader
-autoUpgrader是QT项目的自动升级更新程序解决方案。
+# 简介
+autoUpgrader是基于QT的通用桌面程序自动升级更新解决方案。
 
 # QT版本
 5.15.X
